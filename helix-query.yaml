@@ -20,7 +20,7 @@ indices:
         value: attribute(el, "content")
   magazine:
     include:
-      - /**
+      - /magazine/**
     target: /magzine-articles.json
     properties:
       lastModified:
